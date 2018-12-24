@@ -1,4 +1,4 @@
-# PSIT - Python
+# C Language - SKR School
 This repository consists of codes of IT - C Language, Suankularb Wittayalai Rangsit School (SKR).
 _____
 
